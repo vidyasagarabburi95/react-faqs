@@ -1,0 +1,30 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Roboto';
+}
+.bg-con {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.second-bg-con {
+  background-color: #ffffff;
+  height: 80%;
+  width: 90%;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.heading {
+  text-align: center;
+  color: #cb8805;
+  font-size: 30px;
+}
